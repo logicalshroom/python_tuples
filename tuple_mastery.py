@@ -1,8 +1,9 @@
 # Task 1: Fromatting Flight Itineraries
 
-# 1. Initialize function and Accept Multiple Tuple Inputs
-# 2. Slice each Tuple
-# 3. Print output String
+# 1. Initialize function, ticket number counter
+# 2. Iterate over each item in the outer list
+# 3. Print a string with the required Tuple items
+# 4. Tick up the ticket number counter
 
 def flightform(itinerary):
     counter = 1
